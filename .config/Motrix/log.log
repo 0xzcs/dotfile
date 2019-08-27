@@ -1,0 +1,36 @@
+[2019-08-18 23:41:04.289] [warn] [Motrix] Logger init
+[2019-08-18 23:41:04.557] [warn] openedAtLogin===> false
+[2019-08-18 23:41:29.188] [error] [Motrix] Uncaught exception: Error processing argument at index 0, conversion failure from /opt/motrix/resources/app.asar/dist/electron/static/mo-tray-colorful-active.png
+[2019-08-18 23:41:29.188] [error] TypeError: Error processing argument at index 0, conversion failure from /opt/motrix/resources/app.asar/dist/electron/static/mo-tray-colorful-active.png
+    at t.value (/opt/motrix/resources/app.asar/dist/electron/main.js:1:183307)
+    at t.value (/opt/motrix/resources/app.asar/dist/electron/main.js:1:183204)
+    at EventEmitter.<anonymous> (/opt/motrix/resources/app.asar/dist/electron/main.js:1:192960)
+    at EventEmitter.emit (events.js:182:13)
+    at WebContents.<anonymous> (/opt/motrix/resources/electron.asar/browser/api/web-contents.js:346:13)
+    at WebContents.emit (events.js:182:13)
+[2019-08-18 23:41:59.173] [error] [Motrix] Uncaught exception: Error processing argument at index 0, conversion failure from /opt/motrix/resources/app.asar/dist/electron/static/mo-tray-colorful-normal.png
+[2019-08-18 23:41:59.174] [error] TypeError: Error processing argument at index 0, conversion failure from /opt/motrix/resources/app.asar/dist/electron/static/mo-tray-colorful-normal.png
+    at t.value (/opt/motrix/resources/app.asar/dist/electron/main.js:1:183307)
+    at t.value (/opt/motrix/resources/app.asar/dist/electron/main.js:1:183204)
+    at EventEmitter.<anonymous> (/opt/motrix/resources/app.asar/dist/electron/main.js:1:192960)
+    at EventEmitter.emit (events.js:182:13)
+    at WebContents.<anonymous> (/opt/motrix/resources/electron.asar/browser/api/web-contents.js:346:13)
+    at WebContents.emit (events.js:182:13)
+[2019-08-18 23:42:12.177] [error] [Motrix] Uncaught exception: Error processing argument at index 0, conversion failure from /opt/motrix/resources/app.asar/dist/electron/static/mo-tray-colorful-active.png
+[2019-08-18 23:42:12.178] [error] TypeError: Error processing argument at index 0, conversion failure from /opt/motrix/resources/app.asar/dist/electron/static/mo-tray-colorful-active.png
+    at t.value (/opt/motrix/resources/app.asar/dist/electron/main.js:1:183307)
+    at t.value (/opt/motrix/resources/app.asar/dist/electron/main.js:1:183204)
+    at EventEmitter.<anonymous> (/opt/motrix/resources/app.asar/dist/electron/main.js:1:192960)
+    at EventEmitter.emit (events.js:182:13)
+    at WebContents.<anonymous> (/opt/motrix/resources/electron.asar/browser/api/web-contents.js:346:13)
+    at WebContents.emit (events.js:182:13)
+[2019-08-18 23:48:03.170] [error] [Motrix] Uncaught exception: Error processing argument at index 0, conversion failure from /opt/motrix/resources/app.asar/dist/electron/static/mo-tray-colorful-normal.png
+[2019-08-18 23:48:03.171] [error] TypeError: Error processing argument at index 0, conversion failure from /opt/motrix/resources/app.asar/dist/electron/static/mo-tray-colorful-normal.png
+    at t.value (/opt/motrix/resources/app.asar/dist/electron/main.js:1:183307)
+    at t.value (/opt/motrix/resources/app.asar/dist/electron/main.js:1:183204)
+    at EventEmitter.<anonymous> (/opt/motrix/resources/app.asar/dist/electron/main.js:1:192960)
+    at EventEmitter.emit (events.js:182:13)
+    at WebContents.<anonymous> (/opt/motrix/resources/electron.asar/browser/api/web-contents.js:346:13)
+    at WebContents.emit (events.js:182:13)
+[2019-08-22 17:12:47.152] [warn] [Motrix] Logger init
+[2019-08-22 17:12:47.443] [warn] openedAtLogin===> false

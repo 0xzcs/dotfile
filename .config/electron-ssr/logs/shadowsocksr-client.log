@@ -1,0 +1,1704 @@
+2019-08-23 20:11:21:089 [info] power suspend
+2019-08-23 20:11:21:089 [info] Kill client
+2019-08-23 20:11:45:170 [info] power resumed
+2019-08-23 20:11:45:174 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s gmo.wmsxwd.xyz -p 545 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-23 20:11:45:195 [info] next subscribe update time: Sat Aug 24 2019 20:06:19 GMT+0800 (China Standard Time)
+2019-08-23 20:11:45:356 [error] 2019-08-23 20:11:45 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-23 20:11:45:357 [error] 2019-08-23 20:11:45 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-23 20:11:45 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-23 20:11:45 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-23 20:11:45 INFO     asyncdns.py:335 dns server: [('8.8.4.4', 53), ('8.8.8.8', 53)]
+
+2019-08-23 20:12:10:831 [info] power suspend
+2019-08-23 20:12:10:831 [info] Kill client
+2019-08-24 13:36:16:001 [info] power resumed
+2019-08-24 13:36:16:002 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s gmo.wmsxwd.xyz -p 545 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-24 13:36:16:082 [info] next subscribe update time: Sat Aug 24 2019 20:06:19 GMT+0800 (China Standard Time)
+2019-08-24 13:36:16:384 [error] 2019-08-24 13:36:16 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-24 13:36:16:386 [error] 2019-08-24 13:36:16 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-24 13:36:16 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-24 13:36:16 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-24 13:36:16 INFO     asyncdns.py:335 dns server: [('8.8.4.4', 53), ('8.8.8.8', 53)]
+
+2019-08-24 17:53:06:990 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 17:53:06:991 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 17:53:06:992 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:06:24:949 [info] last update time: Sat Aug 24 2019 18:06:24 GMT+0800 (China Standard Time)
+2019-08-24 18:06:25:035 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2019-08-24 18:06:25:040 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s gmo.wmsxwd.xyz -p 545 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-24 18:06:25:046 [info] pac server listen at: 127.0.0.1:2333
+2019-08-24 18:06:25:047 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-24 18:06:25:104 [info] next subscribe update time: Sun Aug 25 2019 18:06:24 GMT+0800 (China Standard Time)
+2019-08-24 18:06:25:265 [error] 2019-08-24 18:06:25 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+2019-08-24 18:06:25 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-24 18:06:25 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-24 18:06:25 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-24 18:06:25 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-24 18:06:28:088 [info] Kill client
+2019-08-24 18:06:28:091 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s gmo.wmsxwd.xyz -p 545 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-24 18:06:28:276 [error] 2019-08-24 18:06:28 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-24 18:06:28:277 [error] 2019-08-24 18:06:28 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-24 18:06:28 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-24 18:06:28 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-24 18:06:28 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-24 18:08:47:930 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:08:47:931 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:08:47:931 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:09:03:702 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:09:03:706 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:09:03:707 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:10:46:958 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:10:46:960 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:10:46:961 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:11:11:849 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:11:11:850 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:11:11:851 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:12:54:020 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:12:54:021 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:12:54:022 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 18:23:35:480 [error] 2019-08-24 18:23:35 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-24 18:23:35 ERROR    tcprelay.py:987 exception from 127.0.0.1:37846
+
+2019-08-24 19:12:21:455 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 19:12:21:456 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 19:12:21:458 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 19:12:22:603 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 19:12:22:603 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 19:12:22:604 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 20:12:08:080 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 20:12:08:081 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 20:12:08:083 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 20:12:09:386 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 20:12:09:386 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 20:12:09:387 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-24 22:57:19:139 [info] Kill client
+2019-08-24 22:57:19:153 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s vipxbly.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-24 22:57:19:395 [error] 2019-08-24 22:57:19 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-24 22:57:19:396 [error] 2019-08-24 22:57:19 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-24 22:57:19 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-24 22:57:19 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-24 22:57:19 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 10:30:28:483 [info] last update time: Sun Aug 25 2019 10:30:28 GMT+0800 (China Standard Time)
+2019-08-25 10:30:28:576 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2019-08-25 10:30:28:581 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s vipxbly.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 10:30:28:588 [info] pac server listen at: 127.0.0.1:2333
+2019-08-25 10:30:28:588 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-25 10:30:28:629 [info] next subscribe update time: Mon Aug 26 2019 10:30:28 GMT+0800 (China Standard Time)
+2019-08-25 10:30:28:852 [error] 2019-08-25 10:30:28 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+2019-08-25 10:30:28 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 10:30:28 INFO     local.py:54 starting local at 127.0.0.1:1080
+
+2019-08-25 10:30:28:853 [error] 2019-08-25 10:30:28 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 10:30:28 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 10:30:32:102 [info] Kill client
+2019-08-25 10:30:32:108 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s vipxbly.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 10:30:32:339 [error] 2019-08-25 10:30:32 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 10:30:32:340 [error] 2019-08-25 10:30:32 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 10:30:32 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 10:30:32 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 10:30:32 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 10:31:50:398 [info] Kill client
+2019-08-25 10:31:50:412 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hkt.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 10:31:50:726 [error] 2019-08-25 10:31:50 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 10:31:50:726 [error] 2019-08-25 10:31:50 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 10:31:50 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 10:31:50 INFO     asyncdns.py:287 black_hostname_list init as : []
+
+2019-08-25 10:31:50:727 [error] 2019-08-25 10:31:50 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 10:51:24:127 [error] 2019-08-25 10:51:24 ERROR    shell.py:49 [Errno 104] Connection reset by peer
+
+2019-08-25 10:51:24:130 [error] 2019-08-25 10:51:24 ERROR    tcprelay.py:396 exception from 127.0.0.1:53774
+
+2019-08-25 11:27:56:728 [error] 2019-08-25 11:27:56 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-25 11:27:56 ERROR    tcprelay.py:987 exception from 127.0.0.1:57236
+
+2019-08-25 11:31:13:863 [info] Kill client
+2019-08-25 11:31:13:869 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s vipxbly.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 11:31:14:068 [error] 2019-08-25 11:31:14 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 11:31:14:069 [error] 2019-08-25 11:31:14 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 11:31:14 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 11:31:14 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 11:31:14 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 11:43:31:429 [info] Kill client
+2019-08-25 11:43:31:440 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hk3.wmsxwd.com -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 11:43:31:660 [error] 2019-08-25 11:43:31 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 11:43:31:661 [error] 2019-08-25 11:43:31 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 11:43:31 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 11:43:31 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 11:43:31 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 12:28:27:852 [info] Kill client
+2019-08-25 12:28:27:858 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s xbly.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 12:28:28:081 [error] 2019-08-25 12:28:28 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 12:28:28:081 [error] 2019-08-25 12:28:28 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 12:28:28 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 12:28:28 INFO     asyncdns.py:287 black_hostname_list init as : []
+
+2019-08-25 12:28:28:081 [error] 2019-08-25 12:28:28 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 12:29:18:514 [info] Kill client
+2019-08-25 12:29:18:521 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s vipxbly.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 12:29:18:709 [error] 2019-08-25 12:29:18 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 12:29:18:710 [error] 2019-08-25 12:29:18 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 12:29:18 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 12:29:18 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 12:29:18 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 12:37:06:768 [info] Kill client
+2019-08-25 12:37:06:772 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hk4.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 12:37:06:995 [error] 2019-08-25 12:37:06 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 12:37:06:996 [error] 2019-08-25 12:37:06 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 12:37:06 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 12:37:06 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 12:37:06 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 12:53:37:605 [error] 2019-08-25 12:53:37 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-25 12:53:37 ERROR    tcprelay.py:987 exception from 127.0.0.1:49142
+
+2019-08-25 13:11:29:635 [info] power suspend
+2019-08-25 13:11:29:637 [info] Kill client
+2019-08-25 13:11:33:894 [info] power resumed
+2019-08-25 13:11:33:895 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hk4.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 13:11:33:902 [info] next subscribe update time: Mon Aug 26 2019 10:30:28 GMT+0800 (China Standard Time)
+2019-08-25 13:11:34:096 [error] 2019-08-25 13:11:34 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 13:11:34:096 [error] 2019-08-25 13:11:34 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 13:11:34 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 13:11:34 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 13:11:34 INFO     asyncdns.py:335 dns server: [('8.8.4.4', 53), ('8.8.8.8', 53)]
+
+2019-08-25 13:11:34:134 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49884
+
+2019-08-25 13:11:34:240 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49888
+
+2019-08-25 13:11:34:365 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49892
+
+2019-08-25 13:11:34:395 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49896
+
+2019-08-25 13:11:34:409 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49900
+
+2019-08-25 13:11:34:419 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49904
+
+2019-08-25 13:11:34:431 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49908
+
+2019-08-25 13:11:34:441 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49912
+
+2019-08-25 13:11:34:451 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49916
+
+2019-08-25 13:11:34:463 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49920
+
+2019-08-25 13:11:34:473 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49924
+
+2019-08-25 13:11:34:483 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49928
+
+2019-08-25 13:11:34:494 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49932
+
+2019-08-25 13:11:34:504 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49936
+
+2019-08-25 13:11:34:514 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49940
+
+2019-08-25 13:11:34:527 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49944
+
+2019-08-25 13:11:34:538 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49948
+
+2019-08-25 13:11:34:550 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49952
+
+2019-08-25 13:11:34:560 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49956
+
+2019-08-25 13:11:34:570 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49960
+
+2019-08-25 13:11:34:581 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49964
+
+2019-08-25 13:11:34:591 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49968
+
+2019-08-25 13:11:34:601 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49972
+
+2019-08-25 13:11:34:611 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49976
+
+2019-08-25 13:11:34:621 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49980
+
+2019-08-25 13:11:34:631 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49984
+
+2019-08-25 13:11:34:642 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49988
+
+2019-08-25 13:11:34:652 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49992
+
+2019-08-25 13:11:34:662 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:49996
+
+2019-08-25 13:11:34:673 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50000
+
+2019-08-25 13:11:34:682 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50004
+
+2019-08-25 13:11:34:693 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50008
+
+2019-08-25 13:11:34:704 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50012
+
+2019-08-25 13:11:34:714 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50016
+
+2019-08-25 13:11:34:724 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50020
+
+2019-08-25 13:11:34:734 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50024
+
+2019-08-25 13:11:34:744 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50028
+
+2019-08-25 13:11:34:754 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50032
+
+2019-08-25 13:11:34:765 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50036
+
+2019-08-25 13:11:34:775 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50040
+
+2019-08-25 13:11:34:785 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50044
+
+2019-08-25 13:11:34:795 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50048
+
+2019-08-25 13:11:34:805 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50052
+
+2019-08-25 13:11:34:815 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50056
+
+2019-08-25 13:11:34:826 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50060
+
+2019-08-25 13:11:34:836 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50064
+
+2019-08-25 13:11:34:846 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50068
+
+2019-08-25 13:11:34:856 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50072
+
+2019-08-25 13:11:34:866 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50076
+
+2019-08-25 13:11:34:876 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50080
+
+2019-08-25 13:11:34:887 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50084
+
+2019-08-25 13:11:34:900 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50088
+
+2019-08-25 13:11:34:914 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50092
+
+2019-08-25 13:11:34:925 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50096
+
+2019-08-25 13:11:34:934 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50100
+
+2019-08-25 13:11:34:946 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50104
+
+2019-08-25 13:11:34:956 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50108
+
+2019-08-25 13:11:34:966 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50112
+
+2019-08-25 13:11:34:976 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50116
+
+2019-08-25 13:11:34:986 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50120
+
+2019-08-25 13:11:34:996 [error] 2019-08-25 13:11:34 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50124
+
+2019-08-25 13:11:35:008 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50128
+
+2019-08-25 13:11:35:018 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50132
+
+2019-08-25 13:11:35:028 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50136
+
+2019-08-25 13:11:35:038 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50140
+
+2019-08-25 13:11:35:048 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50144
+
+2019-08-25 13:11:35:058 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50148
+
+2019-08-25 13:11:35:069 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50152
+
+2019-08-25 13:11:35:081 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50156
+
+2019-08-25 13:11:35:092 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50160
+
+2019-08-25 13:11:35:102 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50164
+
+2019-08-25 13:11:35:114 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50168
+
+2019-08-25 13:11:35:129 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50172
+
+2019-08-25 13:11:35:139 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50176
+
+2019-08-25 13:11:35:150 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50180
+
+2019-08-25 13:11:35:160 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50184
+
+2019-08-25 13:11:35:170 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50188
+
+2019-08-25 13:11:35:180 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50192
+
+2019-08-25 13:11:35:191 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50196
+
+2019-08-25 13:11:35:204 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50200
+
+2019-08-25 13:11:35:214 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50204
+
+2019-08-25 13:11:35:225 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50208
+
+2019-08-25 13:11:35:235 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50212
+
+2019-08-25 13:11:35:245 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50216
+
+2019-08-25 13:11:35:255 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50220
+
+2019-08-25 13:11:35:266 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50224
+
+2019-08-25 13:11:35:276 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50228
+
+2019-08-25 13:11:35:286 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50232
+
+2019-08-25 13:11:35:296 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50236
+
+2019-08-25 13:11:35:306 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50240
+
+2019-08-25 13:11:35:318 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50244
+
+2019-08-25 13:11:35:333 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50248
+
+2019-08-25 13:11:35:346 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50252
+
+2019-08-25 13:11:35:357 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50256
+
+2019-08-25 13:11:35:367 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50260
+
+2019-08-25 13:11:35:377 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50264
+
+2019-08-25 13:11:35:388 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50268
+
+2019-08-25 13:11:35:399 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50272
+
+2019-08-25 13:11:35:409 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50276
+
+2019-08-25 13:11:35:419 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50280
+
+2019-08-25 13:11:35:429 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50284
+
+2019-08-25 13:11:35:439 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50288
+
+2019-08-25 13:11:35:449 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50292
+
+2019-08-25 13:11:35:459 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50296
+
+2019-08-25 13:11:35:469 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50300
+
+2019-08-25 13:11:35:479 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50304
+
+2019-08-25 13:11:35:490 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50308
+
+2019-08-25 13:11:35:500 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50312
+
+2019-08-25 13:11:35:511 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50316
+
+2019-08-25 13:11:35:524 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50320
+
+2019-08-25 13:11:35:535 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50324
+
+2019-08-25 13:11:35:545 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50328
+
+2019-08-25 13:11:35:556 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50332
+
+2019-08-25 13:11:35:566 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50336
+
+2019-08-25 13:11:35:579 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50340
+
+2019-08-25 13:11:35:592 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50344
+
+2019-08-25 13:11:35:603 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50348
+
+2019-08-25 13:11:35:613 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50352
+
+2019-08-25 13:11:35:623 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50356
+
+2019-08-25 13:11:35:633 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50360
+
+2019-08-25 13:11:35:644 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50364
+
+2019-08-25 13:11:35:654 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50368
+
+2019-08-25 13:11:35:664 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50372
+
+2019-08-25 13:11:35:674 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50376
+
+2019-08-25 13:11:35:684 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50380
+
+2019-08-25 13:11:35:695 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50384
+
+2019-08-25 13:11:35:705 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50388
+
+2019-08-25 13:11:35:715 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50392
+
+2019-08-25 13:11:35:725 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50396
+
+2019-08-25 13:11:35:739 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50400
+
+2019-08-25 13:11:35:750 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50404
+
+2019-08-25 13:11:35:761 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50408
+
+2019-08-25 13:11:35:771 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50412
+
+2019-08-25 13:11:35:782 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50416
+
+2019-08-25 13:11:35:792 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50420
+
+2019-08-25 13:11:35:802 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50424
+
+2019-08-25 13:11:35:812 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50428
+
+2019-08-25 13:11:35:822 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50432
+
+2019-08-25 13:11:35:835 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50436
+
+2019-08-25 13:11:35:845 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50440
+
+2019-08-25 13:11:35:855 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50444
+
+2019-08-25 13:11:35:866 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50448
+
+2019-08-25 13:11:35:876 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50452
+
+2019-08-25 13:11:35:890 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50456
+
+2019-08-25 13:11:35:900 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50460
+
+2019-08-25 13:11:35:909 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50462
+2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50464
+
+2019-08-25 13:11:35:909 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50466
+
+2019-08-25 13:11:35:910 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50470
+
+2019-08-25 13:11:35:912 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50472
+
+2019-08-25 13:11:35:912 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50474
+
+2019-08-25 13:11:35:913 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50476
+
+2019-08-25 13:11:35:922 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50480
+
+2019-08-25 13:11:35:932 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50484
+
+2019-08-25 13:11:35:942 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50488
+
+2019-08-25 13:11:35:953 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50492
+
+2019-08-25 13:11:35:963 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50496
+
+2019-08-25 13:11:35:973 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50500
+
+2019-08-25 13:11:35:986 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50504
+
+2019-08-25 13:11:35:999 [error] 2019-08-25 13:11:35 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50508
+
+2019-08-25 13:11:36:010 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50512
+
+2019-08-25 13:11:36:014 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50514
+
+2019-08-25 13:11:36:022 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50520
+
+2019-08-25 13:11:36:033 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50524
+
+2019-08-25 13:11:36:043 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50528
+
+2019-08-25 13:11:36:053 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50532
+
+2019-08-25 13:11:36:063 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50536
+
+2019-08-25 13:11:36:073 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50540
+
+2019-08-25 13:11:36:084 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50544
+
+2019-08-25 13:11:36:097 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50548
+
+2019-08-25 13:11:36:107 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50552
+
+2019-08-25 13:11:36:117 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50556
+
+2019-08-25 13:11:36:128 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50560
+
+2019-08-25 13:11:36:141 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50564
+
+2019-08-25 13:11:36:152 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50568
+
+2019-08-25 13:11:36:162 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50572
+
+2019-08-25 13:11:36:172 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50576
+
+2019-08-25 13:11:36:183 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50580
+
+2019-08-25 13:11:36:193 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50584
+
+2019-08-25 13:11:36:203 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50588
+
+2019-08-25 13:11:36:214 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50592
+
+2019-08-25 13:11:36:224 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50596
+
+2019-08-25 13:11:36:234 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50600
+
+2019-08-25 13:11:36:244 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50604
+
+2019-08-25 13:11:36:254 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50608
+
+2019-08-25 13:11:36:265 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50612
+
+2019-08-25 13:11:36:276 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50616
+
+2019-08-25 13:11:36:286 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50620
+
+2019-08-25 13:11:36:296 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50624
+
+2019-08-25 13:11:36:306 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50628
+
+2019-08-25 13:11:36:317 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50632
+
+2019-08-25 13:11:36:327 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50636
+
+2019-08-25 13:11:36:338 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50640
+
+2019-08-25 13:11:36:351 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50644
+
+2019-08-25 13:11:36:361 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50648
+
+2019-08-25 13:11:36:371 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50652
+
+2019-08-25 13:11:36:382 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50656
+
+2019-08-25 13:11:36:392 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50660
+
+2019-08-25 13:11:36:402 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50664
+
+2019-08-25 13:11:36:412 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50668
+
+2019-08-25 13:11:36:423 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50672
+
+2019-08-25 13:11:36:433 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50676
+
+2019-08-25 13:11:36:443 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50680
+
+2019-08-25 13:11:36:453 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50684
+
+2019-08-25 13:11:36:463 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50688
+
+2019-08-25 13:11:36:473 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50692
+
+2019-08-25 13:11:36:483 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50696
+
+2019-08-25 13:11:36:495 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50700
+
+2019-08-25 13:11:36:507 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50704
+
+2019-08-25 13:11:36:518 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50708
+
+2019-08-25 13:11:36:528 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50712
+
+2019-08-25 13:11:36:538 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50716
+
+2019-08-25 13:11:36:550 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50720
+
+2019-08-25 13:11:36:560 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50724
+
+2019-08-25 13:11:36:570 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50728
+
+2019-08-25 13:11:36:581 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50732
+
+2019-08-25 13:11:36:591 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50736
+
+2019-08-25 13:11:36:601 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50740
+
+2019-08-25 13:11:36:611 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50744
+
+2019-08-25 13:11:36:621 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50748
+
+2019-08-25 13:11:36:632 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50752
+
+2019-08-25 13:11:36:642 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50756
+
+2019-08-25 13:11:36:652 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50760
+
+2019-08-25 13:11:36:662 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50764
+
+2019-08-25 13:11:36:673 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50768
+
+2019-08-25 13:11:36:683 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50772
+
+2019-08-25 13:11:36:693 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50776
+
+2019-08-25 13:11:36:703 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50780
+
+2019-08-25 13:11:36:714 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50784
+
+2019-08-25 13:11:36:724 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50788
+
+2019-08-25 13:11:36:734 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50792
+
+2019-08-25 13:11:36:745 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50796
+
+2019-08-25 13:11:36:755 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50800
+
+2019-08-25 13:11:36:765 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50804
+
+2019-08-25 13:11:36:775 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50808
+
+2019-08-25 13:11:36:785 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50812
+
+2019-08-25 13:11:36:795 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50816
+
+2019-08-25 13:11:36:805 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50820
+
+2019-08-25 13:11:36:817 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50824
+
+2019-08-25 13:11:36:829 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50828
+
+2019-08-25 13:11:36:839 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50832
+
+2019-08-25 13:11:36:849 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50836
+
+2019-08-25 13:11:36:860 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50840
+
+2019-08-25 13:11:36:870 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50844
+
+2019-08-25 13:11:36:880 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50848
+
+2019-08-25 13:11:36:890 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50852
+
+2019-08-25 13:11:36:900 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50856
+
+2019-08-25 13:11:36:910 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50860
+
+2019-08-25 13:11:36:920 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50864
+
+2019-08-25 13:11:36:932 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50868
+
+2019-08-25 13:11:36:947 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50872
+
+2019-08-25 13:11:36:958 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50876
+
+2019-08-25 13:11:36:968 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50880
+
+2019-08-25 13:11:36:978 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50884
+
+2019-08-25 13:11:36:989 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50888
+
+2019-08-25 13:11:36:999 [error] 2019-08-25 13:11:36 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50892
+
+2019-08-25 13:11:37:009 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50896
+
+2019-08-25 13:11:37:019 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50900
+
+2019-08-25 13:11:37:029 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50904
+
+2019-08-25 13:11:37:039 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50908
+
+2019-08-25 13:11:37:050 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50912
+
+2019-08-25 13:11:37:060 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50916
+
+2019-08-25 13:11:37:070 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50920
+
+2019-08-25 13:11:37:080 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50924
+
+2019-08-25 13:11:37:090 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50928
+
+2019-08-25 13:11:37:100 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50932
+
+2019-08-25 13:11:37:110 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50936
+
+2019-08-25 13:11:37:120 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50940
+
+2019-08-25 13:11:37:130 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50944
+
+2019-08-25 13:11:37:141 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50948
+
+2019-08-25 13:11:37:151 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50952
+
+2019-08-25 13:11:37:161 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50956
+
+2019-08-25 13:11:37:171 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50960
+
+2019-08-25 13:11:37:181 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50964
+
+2019-08-25 13:11:37:191 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50968
+
+2019-08-25 13:11:37:201 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50972
+
+2019-08-25 13:11:37:211 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50976
+
+2019-08-25 13:11:37:222 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50980
+
+2019-08-25 13:11:37:232 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50984
+
+2019-08-25 13:11:37:242 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50988
+
+2019-08-25 13:11:37:252 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50992
+
+2019-08-25 13:11:37:262 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:50996
+
+2019-08-25 13:11:37:273 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51000
+
+2019-08-25 13:11:37:283 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51004
+
+2019-08-25 13:11:37:293 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51008
+
+2019-08-25 13:11:37:303 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51012
+
+2019-08-25 13:11:37:313 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51016
+
+2019-08-25 13:11:37:323 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51020
+
+2019-08-25 13:11:37:334 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51024
+
+2019-08-25 13:11:37:344 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51028
+
+2019-08-25 13:11:37:354 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51032
+
+2019-08-25 13:11:37:364 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51036
+
+2019-08-25 13:11:37:375 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51040
+
+2019-08-25 13:11:37:385 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51044
+
+2019-08-25 13:11:37:395 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51048
+
+2019-08-25 13:11:37:405 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51052
+
+2019-08-25 13:11:37:416 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51056
+
+2019-08-25 13:11:37:426 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51060
+
+2019-08-25 13:11:37:436 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51064
+
+2019-08-25 13:11:37:446 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51068
+
+2019-08-25 13:11:37:456 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51072
+
+2019-08-25 13:11:37:467 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51076
+
+2019-08-25 13:11:37:481 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51080
+
+2019-08-25 13:11:37:493 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51084
+
+2019-08-25 13:11:37:503 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51088
+
+2019-08-25 13:11:37:514 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51092
+
+2019-08-25 13:11:37:529 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51096
+
+2019-08-25 13:11:37:539 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51100
+
+2019-08-25 13:11:37:550 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51104
+
+2019-08-25 13:11:37:563 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51108
+
+2019-08-25 13:11:37:574 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51112
+
+2019-08-25 13:11:37:585 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51116
+
+2019-08-25 13:11:37:596 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51120
+
+2019-08-25 13:11:37:611 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51124
+
+2019-08-25 13:11:37:621 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51128
+
+2019-08-25 13:11:37:632 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51132
+
+2019-08-25 13:11:37:645 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51136
+
+2019-08-25 13:11:37:656 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51140
+
+2019-08-25 13:11:37:666 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51144
+
+2019-08-25 13:11:37:679 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51148
+
+2019-08-25 13:11:37:691 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51152
+
+2019-08-25 13:11:37:702 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51156
+
+2019-08-25 13:11:37:712 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51160
+
+2019-08-25 13:11:37:723 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51164
+
+2019-08-25 13:11:37:734 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51168
+
+2019-08-25 13:11:37:744 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51172
+
+2019-08-25 13:11:37:755 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51176
+
+2019-08-25 13:11:37:768 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51180
+
+2019-08-25 13:11:37:779 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51184
+
+2019-08-25 13:11:37:789 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51188
+
+2019-08-25 13:11:37:800 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51192
+
+2019-08-25 13:11:37:811 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51196
+
+2019-08-25 13:11:37:821 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51200
+
+2019-08-25 13:11:37:834 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51204
+
+2019-08-25 13:11:37:844 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51208
+
+2019-08-25 13:11:37:855 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51212
+
+2019-08-25 13:11:37:865 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51216
+
+2019-08-25 13:11:37:876 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51220
+
+2019-08-25 13:11:37:888 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51224
+
+2019-08-25 13:11:37:899 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51228
+
+2019-08-25 13:11:37:911 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51232
+
+2019-08-25 13:11:37:930 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51236
+
+2019-08-25 13:11:37:941 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51240
+
+2019-08-25 13:11:37:953 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51244
+
+2019-08-25 13:11:37:963 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51248
+
+2019-08-25 13:11:37:974 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51252
+
+2019-08-25 13:11:37:984 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51256
+
+2019-08-25 13:11:37:994 [error] 2019-08-25 13:11:37 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51260
+
+2019-08-25 13:11:38:004 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51264
+
+2019-08-25 13:11:38:016 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51268
+
+2019-08-25 13:11:38:027 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51272
+
+2019-08-25 13:11:38:039 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51276
+
+2019-08-25 13:11:38:049 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51280
+
+2019-08-25 13:11:38:059 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51284
+
+2019-08-25 13:11:38:069 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51288
+
+2019-08-25 13:11:38:084 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51292
+
+2019-08-25 13:11:38:094 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51296
+
+2019-08-25 13:11:38:104 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51300
+
+2019-08-25 13:11:38:114 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51304
+
+2019-08-25 13:11:38:124 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51308
+
+2019-08-25 13:11:38:135 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51312
+
+2019-08-25 13:11:38:145 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51316
+
+2019-08-25 13:11:38:155 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51320
+
+2019-08-25 13:11:38:165 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51324
+
+2019-08-25 13:11:38:175 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51328
+
+2019-08-25 13:11:38:189 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51332
+
+2019-08-25 13:11:38:200 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51336
+
+2019-08-25 13:11:38:210 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51340
+
+2019-08-25 13:11:38:220 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51344
+
+2019-08-25 13:11:38:230 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51348
+
+2019-08-25 13:11:38:240 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51352
+
+2019-08-25 13:11:38:250 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51356
+
+2019-08-25 13:11:38:262 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51360
+
+2019-08-25 13:11:38:273 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51364
+
+2019-08-25 13:11:38:283 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51368
+
+2019-08-25 13:11:38:293 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51372
+
+2019-08-25 13:11:38:303 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51376
+
+2019-08-25 13:11:38:313 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51380
+
+2019-08-25 13:11:38:326 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51384
+
+2019-08-25 13:11:38:337 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51388
+
+2019-08-25 13:11:38:347 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51392
+
+2019-08-25 13:11:38:357 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51396
+
+2019-08-25 13:11:38:367 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51400
+
+2019-08-25 13:11:38:378 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51404
+
+2019-08-25 13:11:38:388 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51408
+
+2019-08-25 13:11:38:398 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51412
+
+2019-08-25 13:11:38:408 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51416
+
+2019-08-25 13:11:38:418 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51420
+
+2019-08-25 13:11:38:428 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51424
+
+2019-08-25 13:11:38:438 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51428
+
+2019-08-25 13:11:38:450 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51432
+
+2019-08-25 13:11:38:462 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51436
+
+2019-08-25 13:11:38:472 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51440
+
+2019-08-25 13:11:38:482 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51444
+
+2019-08-25 13:11:38:497 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51448
+
+2019-08-25 13:11:38:510 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51452
+
+2019-08-25 13:11:38:521 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51456
+
+2019-08-25 13:11:38:531 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51460
+
+2019-08-25 13:11:38:542 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51464
+
+2019-08-25 13:11:38:552 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51468
+
+2019-08-25 13:11:38:562 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51472
+
+2019-08-25 13:11:38:572 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51476
+
+2019-08-25 13:11:38:582 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51480
+
+2019-08-25 13:11:38:592 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51484
+
+2019-08-25 13:11:38:603 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51488
+
+2019-08-25 13:11:38:616 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51492
+
+2019-08-25 13:11:38:626 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51496
+
+2019-08-25 13:11:38:636 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51500
+
+2019-08-25 13:11:38:647 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51504
+
+2019-08-25 13:11:38:657 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51508
+
+2019-08-25 13:11:38:667 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51512
+
+2019-08-25 13:11:38:677 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51516
+
+2019-08-25 13:11:38:687 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51520
+
+2019-08-25 13:11:38:699 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51524
+
+2019-08-25 13:11:38:711 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51528
+
+2019-08-25 13:11:38:724 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51532
+
+2019-08-25 13:11:38:735 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51536
+
+2019-08-25 13:11:38:745 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51540
+
+2019-08-25 13:11:38:755 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51544
+
+2019-08-25 13:11:38:765 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51548
+
+2019-08-25 13:11:38:776 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51552
+
+2019-08-25 13:11:38:786 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51556
+
+2019-08-25 13:11:38:796 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51560
+
+2019-08-25 13:11:38:813 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51564
+
+2019-08-25 13:11:38:836 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51568
+
+2019-08-25 13:11:38:846 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51572
+
+2019-08-25 13:11:38:856 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51576
+
+2019-08-25 13:11:38:867 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51580
+
+2019-08-25 13:11:38:877 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51584
+
+2019-08-25 13:11:38:886 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51588
+
+2019-08-25 13:11:38:896 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51592
+
+2019-08-25 13:11:38:907 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51596
+
+2019-08-25 13:11:38:917 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51600
+
+2019-08-25 13:11:38:928 [error] 2019-08-25 13:11:38 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:51604
+
+2019-08-25 17:33:08:768 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_PROXY_CONNECTION_FAILED
+2019-08-25 17:33:08:779 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_PROXY_CONNECTION_FAILED
+2019-08-25 17:33:08:779 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_PROXY_CONNECTION_FAILED
+2019-08-25 17:33:08:800 [info] last update time: Sun Aug 25 2019 17:33:08 GMT+0800 (China Standard Time)
+2019-08-25 17:33:08:910 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2019-08-25 17:33:08:916 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hk4.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 17:33:08:925 [info] pac server listen at: 127.0.0.1:2333
+2019-08-25 17:33:08:925 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-25 17:33:08:951 [info] next subscribe update time: Mon Aug 26 2019 17:33:08 GMT+0800 (China Standard Time)
+2019-08-25 17:33:09:220 [error] 2019-08-25 17:33:09 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 17:33:09:221 [error] 2019-08-25 17:33:09 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 17:33:09 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 17:33:09 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 17:33:09 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 17:33:11:441 [info] Kill client
+2019-08-25 17:33:11:445 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hk4.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 17:33:11:672 [error] 2019-08-25 17:33:11 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 17:33:11:672 [error] 2019-08-25 17:33:11 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 17:33:11 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 17:33:11 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 17:33:11 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 17:48:46:458 [info] Kill client
+2019-08-25 17:48:46:461 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s gia4.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 17:48:46:657 [error] 2019-08-25 17:48:46 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 17:48:46:658 [error] 2019-08-25 17:48:46 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 17:48:46 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 17:48:46 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 17:48:46 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 17:55:32:242 [info] pac server closed.
+2019-08-25 17:55:32:260 [info] Kill client
+2019-08-25 17:55:32:288 [info] http proxy server closed.
+2019-08-25 17:55:33:573 [info] pac server listen at: 127.0.0.1:2333
+2019-08-25 17:55:33:585 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s gia4.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 17:55:33:596 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-25 17:55:33:761 [error] 2019-08-25 17:55:33 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 17:55:33:762 [error] 2019-08-25 17:55:33 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 17:55:33 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 17:55:33 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 17:55:33 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 17:58:29:537 [info] Kill client
+2019-08-25 17:58:29:545 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s gia1.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 17:58:29:795 [error] 2019-08-25 17:58:29 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 17:58:29:796 [error] 2019-08-25 17:58:29 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 17:58:29 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 17:58:29 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-25 17:58:29 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 17:58:32:793 [error] 2019-08-25 17:58:32 ERROR    tcprelay.py:1097 unable to parse hostname b'gia1.ddns.357159.xyz' when handling connection from 127.0.0.1:42546
+
+2019-08-25 17:58:36:527 [info] Kill client
+2019-08-25 17:58:36:536 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s usa.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-25 17:58:36:736 [error] 2019-08-25 17:58:36 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-25 17:58:36:737 [error] 2019-08-25 17:58:36 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-25 17:58:36 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-25 17:58:36 INFO     asyncdns.py:287 black_hostname_list init as : []
+
+2019-08-25 17:58:36:737 [error] 2019-08-25 17:58:36 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-25 18:25:29:131 [error] 2019-08-25 18:25:29 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-25 18:25:29 ERROR    tcprelay.py:987 exception from 127.0.0.1:44208
+
+2019-08-25 18:56:15:472 [error] 2019-08-25 18:56:15 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-25 18:56:15 ERROR    tcprelay.py:987 exception from 127.0.0.1:46174
+
+2019-08-25 20:32:24:570 [error] 2019-08-25 20:32:24 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+
+2019-08-25 20:32:24:571 [error] 2019-08-25 20:32:24 ERROR    tcprelay.py:987 exception from 127.0.0.1:52780
+
+2019-08-25 21:22:43:793 [error] 2019-08-25 21:22:43 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-25 21:22:43 ERROR    tcprelay.py:987 exception from 127.0.0.1:54840
+
+2019-08-26 13:55:53:220 [info] last update time: Mon Aug 26 2019 13:55:53 GMT+0800 (China Standard Time)
+2019-08-26 13:55:53:337 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2019-08-26 13:55:53:342 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s usa.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-26 13:55:53:349 [info] pac server listen at: 127.0.0.1:2333
+2019-08-26 13:55:53:349 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-26 13:55:53:397 [info] next subscribe update time: Tue Aug 27 2019 13:55:53 GMT+0800 (China Standard Time)
+2019-08-26 13:55:53:728 [error] 2019-08-26 13:55:53 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-26 13:55:53:730 [error] 2019-08-26 13:55:53 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-26 13:55:53 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-26 13:55:53 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-26 13:55:53 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-26 13:55:56:967 [info] Kill client
+2019-08-26 13:55:56:971 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s usa.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-26 13:55:56:994 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:56:996 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:001 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:013 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:017 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:023 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:028 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:030 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:031 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:037 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:041 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:046 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:049 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:052 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:054 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:056 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:063 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:065 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:074 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:077 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:092 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:100 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:104 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:105 [error] http proxy server connect error: Error: Socket Closed
+2019-08-26 13:55:57:175 [error] 2019-08-26 13:55:57 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-26 13:55:57:175 [error] 2019-08-26 13:55:57 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-26 13:55:57 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-26 13:55:57 INFO     asyncdns.py:287 black_hostname_list init as : []
+
+2019-08-26 13:55:57:176 [error] 2019-08-26 13:55:57 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-26 13:59:38:600 [info] Kill client
+2019-08-26 13:59:38:606 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s xjp7.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-26 13:59:38:804 [error] 2019-08-26 13:59:38 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-26 13:59:38:804 [error] 2019-08-26 13:59:38 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-26 13:59:38 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-26 13:59:38 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-26 13:59:38 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-26 14:00:25:438 [error] 2019-08-26 14:00:25 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-26 14:00:25 ERROR    tcprelay.py:987 exception from 127.0.0.1:47426
+
+2019-08-26 14:07:50:300 [info] Kill client
+2019-08-26 14:07:50:304 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s he.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-26 14:07:50:526 [error] 2019-08-26 14:07:50 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-26 14:07:50:526 [error] 2019-08-26 14:07:50 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-26 14:07:50 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-26 14:07:50 INFO     asyncdns.py:287 black_hostname_list init as : []
+
+2019-08-26 14:07:50:526 [error] 2019-08-26 14:07:50 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-26 14:27:20:826 [info] Kill client
+2019-08-26 14:27:20:831 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s xbly.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-26 14:27:21:040 [error] 2019-08-26 14:27:21 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-26 14:27:21:040 [error] 2019-08-26 14:27:21 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-26 14:27:21 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-26 14:27:21 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-26 14:27:21 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-26 14:51:35:383 [info] Kill client
+2019-08-26 14:51:35:395 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s he.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-26 14:51:35:663 [error] 2019-08-26 14:51:35 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-26 14:51:35:663 [error] 2019-08-26 14:51:35 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-26 14:51:35 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-26 14:51:35 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-26 14:51:35 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-26 14:52:00:530 [info] pac server closed.
+2019-08-26 14:52:00:553 [info] Kill client
+2019-08-26 14:52:00:596 [info] http proxy server closed.
+2019-08-26 14:52:00:611 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_PROXY_CONNECTION_FAILED
+2019-08-26 14:52:00:612 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_PROXY_CONNECTION_FAILED
+2019-08-26 14:52:00:612 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_PROXY_CONNECTION_FAILED
+2019-08-26 14:52:00:616 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_PROXY_CONNECTION_FAILED
+2019-08-26 14:52:00:616 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_PROXY_CONNECTION_FAILED
+2019-08-26 14:52:01:653 [info] pac server listen at: 127.0.0.1:2333
+2019-08-26 14:52:01:668 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s he.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-26 14:52:01:677 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-26 14:52:01:865 [error] 2019-08-26 14:52:01 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-26 14:52:01:866 [error] 2019-08-26 14:52:01 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-26 14:52:01 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-26 14:52:01 INFO     asyncdns.py:287 black_hostname_list init as : []
+
+2019-08-26 14:52:01:866 [error] 2019-08-26 14:52:01 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-26 14:53:43:853 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 14:53:43:854 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 14:53:43:855 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 14:53:44:719 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 14:53:44:721 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 14:53:44:722 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 14:54:16:650 [info] Kill client
+2019-08-26 14:54:16:658 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hk4.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-26 14:54:16:969 [error] 2019-08-26 14:54:16 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-26 14:54:16:969 [error] 2019-08-26 14:54:16 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-26 14:54:16 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-26 14:54:16 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-26 14:54:16 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-26 14:54:18:793 [info] pac server closed.
+2019-08-26 14:54:18:812 [info] Kill client
+2019-08-26 14:54:18:839 [info] http proxy server closed.
+2019-08-26 14:54:20:767 [info] pac server listen at: 127.0.0.1:2333
+2019-08-26 14:54:20:780 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hk4.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-26 14:54:20:785 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-26 14:54:20:957 [error] 2019-08-26 14:54:20 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-26 14:54:20:958 [error] 2019-08-26 14:54:20 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-26 14:54:20 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-26 14:54:20 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-26 14:54:20 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-26 14:54:59:729 [error] 2019-08-26 14:54:59 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+
+2019-08-26 14:54:59:730 [error] 2019-08-26 14:54:59 ERROR    tcprelay.py:987 exception from 127.0.0.1:57250
+
+2019-08-26 16:06:48:674 [error] 2019-08-26 16:06:48 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-26 16:06:48 ERROR    tcprelay.py:987 exception from 127.0.0.1:38764
+
+2019-08-26 17:24:21:793 [error] 2019-08-26 17:24:21 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-26 17:24:21 ERROR    tcprelay.py:987 exception from 127.0.0.1:49002
+
+2019-08-26 18:20:05:661 [error] 2019-08-26 18:20:05 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-26 18:20:05 ERROR    tcprelay.py:987 exception from 127.0.0.1:53194
+
+2019-08-26 18:21:52:910 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 18:21:52:911 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 18:21:52:913 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 18:21:57:109 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 18:21:57:110 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 18:21:57:113 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 18:22:03:618 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 18:22:03:619 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 18:22:03:619 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 18:24:07:878 [error] 2019-08-26 18:24:07 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+
+2019-08-26 18:24:07:880 [error] 2019-08-26 18:24:07 ERROR    tcprelay.py:987 exception from 127.0.0.1:53888
+
+2019-08-26 18:40:03:175 [error] 2019-08-26 18:40:03 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-26 18:40:03 ERROR    tcprelay.py:987 exception from 127.0.0.1:57010
+
+2019-08-26 18:43:07:539 [error] 2019-08-26 18:43:07 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-26 18:43:07 ERROR    tcprelay.py:987 exception from 127.0.0.1:57948
+
+2019-08-26 19:50:44:639 [error] 2019-08-26 19:50:44 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-26 19:50:44 ERROR    tcprelay.py:987 exception from 127.0.0.1:33498
+
+2019-08-26 19:56:00:424 [error] 2019-08-26 19:56:00 ERROR    shell.py:49 [Errno 32] Broken pipe
+
+2019-08-26 19:56:00:427 [error] 2019-08-26 19:56:00 ERROR    tcprelay.py:396 exception from 127.0.0.1:33980
+
+2019-08-26 20:09:30:841 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 20:09:30:842 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 20:09:30:843 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-26 21:18:30:340 [info] Kill client
+2019-08-26 21:18:30:346 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s vipxbly.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-26 21:18:30:655 [error] 2019-08-26 21:18:30 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-26 21:18:30:656 [error] 2019-08-26 21:18:30 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-26 21:18:30 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-26 21:18:30 INFO     asyncdns.py:287 black_hostname_list init as : []
+
+2019-08-26 21:18:30:656 [error] 2019-08-26 21:18:30 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:02:10:087 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_INTERNET_DISCONNECTED
+2019-08-27 12:02:10:098 [info] last update time: Tue Aug 27 2019 12:02:10 GMT+0800 (China Standard Time)
+2019-08-27 12:02:10:138 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2019-08-27 12:02:10:143 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s vipxbly.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:02:10:150 [info] pac server listen at: 127.0.0.1:2333
+2019-08-27 12:02:10:150 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-27 12:02:10:152 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_INTERNET_DISCONNECTED
+2019-08-27 12:02:10:152 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_INTERNET_DISCONNECTED
+2019-08-27 12:02:10:190 [info] next subscribe update time: Wed Aug 28 2019 12:02:10 GMT+0800 (China Standard Time)
+2019-08-27 12:02:10:358 [error] 2019-08-27 12:02:10 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:02:10:358 [error] 2019-08-27 12:02:10 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:02:10 INFO     local.py:54 starting local at 127.0.0.1:1080
+
+2019-08-27 12:02:10:358 [error] 2019-08-27 12:02:10 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:02:10 INFO     asyncdns.py:335 dns server: [('8.8.4.4', 53), ('8.8.8.8', 53)]
+
+2019-08-27 12:02:10:369 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54946
+
+2019-08-27 12:02:10:378 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54950
+
+2019-08-27 12:02:10:390 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54954
+
+2019-08-27 12:02:10:402 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54958
+
+2019-08-27 12:02:10:416 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54962
+
+2019-08-27 12:02:10:430 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54966
+
+2019-08-27 12:02:10:443 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54970
+
+2019-08-27 12:02:10:457 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54974
+
+2019-08-27 12:02:10:470 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54978
+
+2019-08-27 12:02:10:480 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54982
+
+2019-08-27 12:02:10:493 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54986
+
+2019-08-27 12:02:10:504 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54990
+
+2019-08-27 12:02:10:515 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54994
+
+2019-08-27 12:02:10:526 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:54998
+
+2019-08-27 12:02:10:536 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55002
+
+2019-08-27 12:02:10:547 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55006
+
+2019-08-27 12:02:10:557 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55010
+
+2019-08-27 12:02:10:571 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55014
+
+2019-08-27 12:02:10:584 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55018
+
+2019-08-27 12:02:10:599 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55022
+
+2019-08-27 12:02:10:625 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55026
+
+2019-08-27 12:02:10:641 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55030
+
+2019-08-27 12:02:10:653 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55034
+
+2019-08-27 12:02:10:663 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55038
+
+2019-08-27 12:02:10:674 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55042
+
+2019-08-27 12:02:10:685 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55046
+
+2019-08-27 12:02:10:697 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55050
+
+2019-08-27 12:02:10:707 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55054
+
+2019-08-27 12:02:10:729 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55058
+
+2019-08-27 12:02:10:743 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55062
+
+2019-08-27 12:02:10:753 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55066
+
+2019-08-27 12:02:10:764 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55070
+
+2019-08-27 12:02:10:774 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55074
+
+2019-08-27 12:02:10:784 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55078
+
+2019-08-27 12:02:10:802 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55082
+
+2019-08-27 12:02:10:828 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55086
+
+2019-08-27 12:02:10:839 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55090
+
+2019-08-27 12:02:10:849 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55094
+
+2019-08-27 12:02:10:860 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55098
+
+2019-08-27 12:02:10:872 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55102
+
+2019-08-27 12:02:10:883 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55106
+
+2019-08-27 12:02:10:893 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55110
+
+2019-08-27 12:02:10:935 [error] 2019-08-27 12:02:10 ERROR    tcprelay.py:1097 [Errno 101] Network is unreachable when handling connection from 127.0.0.1:55114
+
+2019-08-27 12:02:24:815 [info] last update time: Tue Aug 27 2019 12:02:24 GMT+0800 (China Standard Time)
+2019-08-27 12:02:24:868 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2019-08-27 12:02:24:874 [error] Error: listen EADDRINUSE 127.0.0.1:1080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at doListen (net.js:1460:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2019-08-27 12:02:31:082 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s vipxbly.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:02:31:089 [info] pac server listen at: 127.0.0.1:2333
+2019-08-27 12:02:31:089 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-27 12:02:31:127 [info] next subscribe update time: Wed Aug 28 2019 12:02:24 GMT+0800 (China Standard Time)
+2019-08-27 12:02:31:259 [error] 2019-08-27 12:02:31 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:02:31:259 [error] 2019-08-27 12:02:31 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:02:31 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:02:31 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:02:31 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:02:31:261 [error] 2019-08-27 12:02:31 ERROR    shell.py:49 [Errno 98] Address already in use
+
+2019-08-27 12:02:31:261 [info] IPv6 support
+
+2019-08-27 12:02:40:345 [info] Kill client
+2019-08-27 12:02:40:350 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2019-08-27 12:02:41:986 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 12:02:41:988 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 12:02:45:348 [error] 进程 14904 可能无法关闭
+2019-08-27 12:02:47:332 [info] Kill client
+2019-08-27 12:02:53:733 [info] last update time: Tue Aug 27 2019 12:02:53 GMT+0800 (China Standard Time)
+2019-08-27 12:02:53:775 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2019-08-27 12:02:53:781 [error] Error: listen EADDRINUSE 127.0.0.1:1080
+    at Server.setupListenHandle [as _listen2] (net.js:1286:14)
+    at listenInCluster (net.js:1334:12)
+    at doListen (net.js:1460:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+
+2019-08-27 12:02:56:371 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s vipxbly.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:02:56:378 [info] pac server listen at: 127.0.0.1:2333
+2019-08-27 12:02:56:378 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-27 12:02:56:415 [info] next subscribe update time: Wed Aug 28 2019 12:02:53 GMT+0800 (China Standard Time)
+2019-08-27 12:02:56:553 [error] 2019-08-27 12:02:56 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:02:56:554 [error] 2019-08-27 12:02:56 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:02:56 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:02:56 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:02:56 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:02:56:556 [error] 2019-08-27 12:02:56 ERROR    shell.py:49 [Errno 98] Address already in use
+
+2019-08-27 12:02:56:556 [info] IPv6 support
+
+2019-08-27 12:07:08:946 [info] Kill client
+2019-08-27 12:07:08:952 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2019-08-27 12:07:09:953 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 12:07:09:954 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 12:07:13:948 [error] 进程 18946 可能无法关闭
+2019-08-27 12:12:42:095 [info] Kill client
+2019-08-27 12:12:42:097 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2019-08-27 12:12:42:862 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 12:12:42:863 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 12:12:44:568 [info] pac server closed.
+2019-08-27 12:12:44:589 [info] Kill client
+2019-08-27 12:12:44:591 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2019-08-27 12:12:44:895 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 12:12:44:896 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 12:12:46:040 [info] pac server listen at: 127.0.0.1:2333
+2019-08-27 12:12:46:056 [info] Kill client
+2019-08-27 12:12:46:058 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-27 12:12:46:059 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2019-08-27 12:12:46:348 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 12:12:46:352 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 12:12:47:097 [error] 进程 18946 可能无法关闭
+2019-08-27 12:12:49:591 [error] 进程 18946 可能无法关闭
+2019-08-27 12:12:51:058 [error] 进程 18946 可能无法关闭
+2019-08-27 12:12:55:227 [info] http proxy server closed.
+2019-08-27 12:12:58:945 [info] Kill client
+2019-08-27 12:13:08:835 [info] last update time: Tue Aug 27 2019 12:13:08 GMT+0800 (China Standard Time)
+2019-08-27 12:13:08:877 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2019-08-27 12:13:08:882 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hkqyy.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:13:08:888 [info] pac server listen at: 127.0.0.1:2333
+2019-08-27 12:13:08:888 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-27 12:13:08:926 [info] next subscribe update time: Wed Aug 28 2019 12:13:08 GMT+0800 (China Standard Time)
+2019-08-27 12:13:09:078 [error] 2019-08-27 12:13:09 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:13:09:079 [error] 2019-08-27 12:13:09 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:13:09 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:13:09 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:13:09 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:13:10:707 [info] Kill client
+2019-08-27 12:13:10:710 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hkqyy.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:13:10:893 [error] 2019-08-27 12:13:10 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:13:10:894 [error] 2019-08-27 12:13:10 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:13:10 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:13:10 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:13:10 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:22:47:527 [info] Kill client
+2019-08-27 12:22:47:534 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hk3.wmsxwd.com -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:22:47:751 [error] 2019-08-27 12:22:47 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:22:47:752 [error] 2019-08-27 12:22:47 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:22:47 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:22:47 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:22:47 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:33:12:224 [info] Kill client
+2019-08-27 12:33:12:231 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s tw3.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:33:12:431 [error] 2019-08-27 12:33:12 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:33:12:432 [error] 2019-08-27 12:33:12 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:33:12 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:33:12 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:33:12 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:38:11:416 [info] Kill client
+2019-08-27 12:38:11:422 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hkt.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:38:11:616 [error] 2019-08-27 12:38:11 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:38:11:617 [error] 2019-08-27 12:38:11 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:38:11 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:38:11 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:38:11 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:40:59:623 [info] Kill client
+2019-08-27 12:40:59:631 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hkbn.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:40:59:642 [error] http proxy server connect error: Error: Socket Closed
+2019-08-27 12:40:59:647 [error] http proxy server connect error: Error: Socket Closed
+2019-08-27 12:40:59:651 [error] http proxy server connect error: Error: Socket Closed
+2019-08-27 12:40:59:665 [error] http proxy server connect error: Error: Socket Closed
+2019-08-27 12:40:59:668 [error] http proxy server connect error: Error: Socket Closed
+2019-08-27 12:40:59:843 [error] 2019-08-27 12:40:59 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:40:59:843 [error] 2019-08-27 12:40:59 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:40:59 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:40:59 INFO     asyncdns.py:287 black_hostname_list init as : []
+
+2019-08-27 12:40:59:844 [error] 2019-08-27 12:40:59 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:44:53:928 [info] Kill client
+2019-08-27 12:44:53:931 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s usa.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:44:54:135 [error] 2019-08-27 12:44:54 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:44:54:136 [error] 2019-08-27 12:44:54 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:44:54 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:44:54 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:44:54 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:45:06:924 [error] 2019-08-27 12:45:06 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+
+2019-08-27 12:45:06:925 [error] 2019-08-27 12:45:06 ERROR    tcprelay.py:987 exception from 127.0.0.1:33578
+
+2019-08-27 12:48:45:495 [info] Kill client
+2019-08-27 12:48:45:501 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s xjp7.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:48:45:694 [error] 2019-08-27 12:48:45 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:48:45:694 [error] 2019-08-27 12:48:45 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:48:45 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:48:45 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:48:45 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:48:57:422 [info] Kill client
+2019-08-27 12:48:57:425 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s cmi1.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:48:57:610 [error] 2019-08-27 12:48:57 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:48:57:611 [error] 2019-08-27 12:48:57 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:48:57 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:48:57 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:48:57 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 12:49:33:585 [info] Kill client
+2019-08-27 12:49:33:589 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hk17.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 12:49:33:781 [error] 2019-08-27 12:49:33 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 12:49:33:781 [error] 2019-08-27 12:49:33 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 12:49:33 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 12:49:33 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 12:49:33 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 13:23:16:632 [info] Kill client
+2019-08-27 13:23:16:639 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s hkbn4.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 13:23:16:893 [error] 2019-08-27 13:23:16 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+2019-08-27 13:23:16 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 13:23:16 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 13:23:16 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 13:23:16 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 13:31:25:449 [info] Kill client
+2019-08-27 13:31:25:453 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s xjp7.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 13:31:25:716 [error] 2019-08-27 13:31:25 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 13:31:25:717 [error] 2019-08-27 13:31:25 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 13:31:25 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 13:31:25 INFO     asyncdns.py:287 black_hostname_list init as : []
+
+2019-08-27 13:31:25:717 [error] 2019-08-27 13:31:25 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 13:31:34:745 [error] 2019-08-27 13:31:34 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+
+2019-08-27 13:31:34:746 [error] 2019-08-27 13:31:34 ERROR    tcprelay.py:987 exception from 127.0.0.1:48998
+
+2019-08-27 13:33:38:119 [info] Kill client
+2019-08-27 13:33:38:135 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s wtt.wmsxwd.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 13:33:38:398 [error] 2019-08-27 13:33:38 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+2019-08-27 13:33:38 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 13:33:38 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 13:33:38 INFO     asyncdns.py:287 black_hostname_list init as : []
+
+2019-08-27 13:33:38:398 [error] 2019-08-27 13:33:38 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 13:35:33:669 [info] Kill client
+2019-08-27 13:35:33:688 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s he.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 13:35:34:121 [error] 2019-08-27 13:35:34 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 13:35:34:121 [error] 2019-08-27 13:35:34 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 13:35:34 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 13:35:34 INFO     asyncdns.py:287 black_hostname_list init as : []
+2019-08-27 13:35:34 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 13:35:55:022 [info] pac server closed.
+2019-08-27 13:35:55:047 [info] Kill client
+2019-08-27 13:35:55:087 [info] http proxy server closed.
+2019-08-27 13:35:56:457 [info] pac server listen at: 127.0.0.1:2333
+2019-08-27 13:35:56:476 [info] run command: python /home/tardis/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s he.ddns.357159.xyz -p 10091 -k ****** -m aes-256-cfb -O auth_aes128_sha1 -G 3259:ZThIUx -o http_simple -g 7746f.microsoft.com -b 127.0.0.1 -l 1080
+2019-08-27 13:35:56:481 [info] http proxy server listen at: 127.0.0.1:12333
+2019-08-27 13:35:56:700 [error] 2019-08-27 13:35:56 INFO     util.py:94 loading libcrypto from libcrypto.so.1.1
+
+2019-08-27 13:35:56:701 [error] 2019-08-27 13:35:56 INFO     local.py:50 local start with protocol[auth_aes128_sha1] password [b'ZSI1Xe'] method [aes-256-cfb] obfs [http_simple] obfs_param [7746f.microsoft.com]
+2019-08-27 13:35:56 INFO     local.py:54 starting local at 127.0.0.1:1080
+2019-08-27 13:35:56 INFO     asyncdns.py:287 black_hostname_list init as : []
+
+2019-08-27 13:35:56:710 [error] 2019-08-27 13:35:56 INFO     asyncdns.py:335 dns server: [('192.168.1.1', 53)]
+
+2019-08-27 14:00:55:004 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 14:00:55:006 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 14:00:55:006 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 14:01:31:608 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 14:01:31:609 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 14:01:31:611 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 14:01:32:460 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 14:01:32:461 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 14:01:32:462 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 15:46:54:966 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 15:46:54:967 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 15:46:54:989 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 16:14:40:255 [error] 2019-08-27 16:14:40 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+
+2019-08-27 16:14:40:256 [error] 2019-08-27 16:14:40 ERROR    tcprelay.py:987 exception from 127.0.0.1:50646
+
+2019-08-27 16:33:14:382 [error] 2019-08-27 16:33:14 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+
+2019-08-27 16:33:14:383 [error] 2019-08-27 16:33:14 ERROR    tcprelay.py:987 exception from 127.0.0.1:52510
+
+2019-08-27 16:35:23:191 [error] 2019-08-27 16:35:23 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+
+2019-08-27 16:35:23:192 [error] 2019-08-27 16:35:23 ERROR    tcprelay.py:987 exception from 127.0.0.1:53700
+
+2019-08-27 19:24:42:197 [error] 2019-08-27 19:24:42 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-27 19:24:42 ERROR    tcprelay.py:987 exception from 127.0.0.1:41560
+
+2019-08-27 19:27:59:751 [error] 2019-08-27 19:27:59 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-27 19:27:59 ERROR    tcprelay.py:987 exception from 127.0.0.1:41604
+
+2019-08-27 19:54:59:004 [error] 2019-08-27 19:54:59 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-27 19:54:59 ERROR    tcprelay.py:987 exception from 127.0.0.1:42240
+
+2019-08-27 19:57:02:743 [error] 2019-08-27 19:57:02 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-27 19:57:02 ERROR    tcprelay.py:987 exception from 127.0.0.1:42320
+
+2019-08-27 20:02:13:429 [error] 2019-08-27 20:02:13 ERROR    shell.py:49 client_post_decrypt data uncorrect mac
+2019-08-27 20:02:13 ERROR    tcprelay.py:987 exception from 127.0.0.1:42606
+
+2019-08-27 20:36:43:216 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 20:36:43:216 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 20:36:43:217 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 20:36:45:358 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 20:36:45:358 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting
+2019-08-27 20:36:45:359 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429): Creation of this event was denied due to rate limiting

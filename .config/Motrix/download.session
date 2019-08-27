@@ -1,0 +1,26 @@
+magnet:?xt=urn:btih:163E7CC77857856D1F081E59F6D2F50C6D1C6DA1&dn=ssni-542-C
+ gid=8779b2d096dfeec8
+ dir=/home/tardis/Downloads
+ split=16
+ max-download-limit=0
+ allow-overwrite=true
+ continue=true
+ auto-file-renaming=true
+ max-connection-per-server=16
+ min-split-size=1048576
+ user-agent=Transmission/2.94
+ seed-time=60
+ bt-tracker=udp://62.138.0.158:6969/announce,udp://185.225.17.100:1337/announce,udp://93.158.213.92:1337/announce,udp://151.80.120.113:2710/announce,udp://151.80.120.113:2710/announce,udp://185.19.107.254:80/announce,http://176.113.71.19:6961/announce,udp://208.83.20.20:6969/announce,udp://89.234.156.205:451/announce,udp://176.113.68.66:6961/announce,udp://5.206.19.247:6969/announce,udp://159.100.245.181:6969/announce,udp://37.235.174.46:2710/announce,udp://195.154.52.99:80/announce,udp://142.44.243.4:1337/announce,udp://184.105.151.164:6969/announce,udp://54.37.235.149:6969/announce,udp://95.211.168.204:2710/announce,http://51.68.122.172:80/announce,udp://tracker.coppersurfer.tk:6969/announce,udp://tracker.internetwarriors.net:1337/announce,udp://tracker.opentrackr.org:1337/announce,udp://9.rarbg.to:2710/announce,udp://9.rarbg.me:2710/announce,udp://tracker.openbittorrent.com:80/announce,http://tracker3.itzmx.com:6961/announce,http://tracker1.itzmx.com:8080/announce,udp://exodus.desync.com:6969/announce,udp://tracker.torrent.eu.org:451/announce,udp://tracker2.itzmx.com:6961/announce,udp://tracker.tiny-vps.com:6969/announce,udp://tracker.cyberia.is:6969/announce,udp://retracker.lanta-net.ru:2710/announce,udp://open.stealth.si:80/announce,udp://open.demonii.si:1337/announce,udp://explodie.org:6969/announce,udp://denis.stalker.upeer.me:6969/announce,udp://bt.xxx-tracker.com:2710/announce,http://open.acgnxtracker.com:80/announce
+magnet:?xt=urn:btih:C77013A0E198F30901E5D445274B5779BF432B34&dn=ssni-546-C
+ gid=52914c5f26d479a2
+ dir=/home/tardis/Downloads
+ split=16
+ max-download-limit=0
+ allow-overwrite=true
+ continue=true
+ auto-file-renaming=true
+ max-connection-per-server=16
+ min-split-size=1048576
+ user-agent=Transmission/2.94
+ seed-time=60
+ bt-tracker=udp://62.138.0.158:6969/announce,udp://185.225.17.100:1337/announce,udp://93.158.213.92:1337/announce,udp://151.80.120.113:2710/announce,udp://151.80.120.113:2710/announce,udp://185.19.107.254:80/announce,http://176.113.71.19:6961/announce,udp://208.83.20.20:6969/announce,udp://89.234.156.205:451/announce,udp://176.113.68.66:6961/announce,udp://5.206.19.247:6969/announce,udp://159.100.245.181:6969/announce,udp://37.235.174.46:2710/announce,udp://195.154.52.99:80/announce,udp://142.44.243.4:1337/announce,udp://184.105.151.164:6969/announce,udp://54.37.235.149:6969/announce,udp://95.211.168.204:2710/announce,http://51.68.122.172:80/announce,udp://tracker.coppersurfer.tk:6969/announce,udp://tracker.internetwarriors.net:1337/announce,udp://tracker.opentrackr.org:1337/announce,udp://9.rarbg.to:2710/announce,udp://9.rarbg.me:2710/announce,udp://tracker.openbittorrent.com:80/announce,http://tracker3.itzmx.com:6961/announce,http://tracker1.itzmx.com:8080/announce,udp://exodus.desync.com:6969/announce,udp://tracker.torrent.eu.org:451/announce,udp://tracker2.itzmx.com:6961/announce,udp://tracker.tiny-vps.com:6969/announce,udp://tracker.cyberia.is:6969/announce,udp://retracker.lanta-net.ru:2710/announce,udp://open.stealth.si:80/announce,udp://open.demonii.si:1337/announce,udp://explodie.org:6969/announce,udp://denis.stalker.upeer.me:6969/announce,udp://bt.xxx-tracker.com:2710/announce,http://open.acgnxtracker.com:80/announce

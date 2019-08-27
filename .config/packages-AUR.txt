@@ -1,0 +1,4 @@
+deepin-wine-thunderspeed
+git-it
+jetbrains-toolbox
+utorrent

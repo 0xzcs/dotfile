@@ -1,0 +1,22 @@
+{
+	"all-proxy-backup": "",
+	"auto-check-update": true,
+	"hide-app-menu": true,
+	"last-check-update-time": 0,
+	"locale": "en-US",
+	"log-path": "/home/tardis/.config/Motrix/log.log",
+	"new-task-show-downloading": true,
+	"open-at-login": false,
+	"protocols": {
+		"magnet": true,
+		"thunder": true
+	},
+	"resume-all-when-app-launched": false,
+	"keep-window-state": false,
+	"session-path": "/home/tardis/.config/Motrix/download.session",
+	"task-notification": true,
+	"theme": "auto",
+	"update-channel": "latest",
+	"use-proxy": false,
+	"window-state": {}
+}
